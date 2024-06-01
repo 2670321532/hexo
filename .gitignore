@@ -1,0 +1,15 @@
+# Ignored directories
+node_modules/
+public/
+db.json
+.deploy*/
+.deploy*/
+.coverage
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignored files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
