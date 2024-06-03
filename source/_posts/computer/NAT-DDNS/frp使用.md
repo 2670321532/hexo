@@ -85,12 +85,17 @@ ai.feelapple.cn:8884
    sudo systemctl start frps
    ```
 
+   ```
+   这将重新启动FRPS服务。
+   sudo systemctl restart frps
+   ```
+
 4. **使服务开机自启动**：
 
    ```
    sudo systemctl enable frps
    ```
-   
+
 5. **检查服务状态**：
 
    确认服务状态：
